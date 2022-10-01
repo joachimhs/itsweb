@@ -1,5 +1,5 @@
 <header>
-    <img src="/images/its_makerspace_logo_white.png" />
+    <div class="header-logo"></div>
 </header>
 
 <section class="main-section">

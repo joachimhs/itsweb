@@ -2,6 +2,69 @@
     text-align: justify;
 }
 
+@media only screen and (min-width: 391px) {
+    body {
+        font-family: sans-serif;
+        font-weight: 100;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        height: clamp(150px, 30vw, 250px);
+        background-color: #2f2f2f;
+        margin: 0 auto;
+    }
+
+    .header-logo {
+        position: relative;
+        top: 2vh;
+        height: 200px;
+        width: clamp(350px, 70vw, 600px);
+        margin: 0 auto;
+        background-image: url('/images/its_makerspace_logo_white_horizontal.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    section p {
+        line-height: 20px;
+    }
+
+    .main-section {
+        margin: 50px 20px;
+    }
+
+    .main-section h1 {
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .main-section ul {
+        margin-top: 30px;
+    }
+
+    .main-section ul li {
+        margin-bottom: 10px;
+        line-height: 24px;
+    }
+
+    .main-section ul li::marker {
+        content: "» ";
+    }
+
+    .image-section {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .image-section img {
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
 @media only screen and (max-width: 390px) {
     body {
         font-family: sans-serif;
@@ -16,12 +79,16 @@
         margin: 0 auto;
     }
 
-    header img {
+    .header-logo {
         position: relative;
         top: 10vh;
         left: 17%;
         max-height: 45vh;
         max-width: 65vw;
+        background-image: url('/images/its_makerspace_logo_white.png');
+        height: 30vh;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     section p {
