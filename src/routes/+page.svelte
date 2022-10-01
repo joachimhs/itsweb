@@ -3,9 +3,9 @@
 </header>
 
 <section class="main-section">
-    <h1>Hva er Makerspece?</h1>
-    <p class="justify">Makerspace kombinerer mekanikk, design og programmering i en kreativ aktivitet hvor fokuset ligger i å bruke egne evner til å produsere en kreativ gjenstand.</p>
-    <p class="justify">Et skaperverksted kan være så mangt og omfatter alt fra tradisjonelle systyer og sløydsaler til heldigitale moderne fabrikasjonsmetoder som 3d printing, laserkutting og digitale freser. </p>
+    <h1>Hva er Makerspace?</h1>
+    <p>Makerspace kombinerer mekanikk, design og programmering i en kreativ aktivitet hvor fokuset ligger i å bruke egne evner til å produsere en kreativ gjenstand.</p>
+    <p>Et skaperverksted kan være så mangt og omfatter alt fra tradisjonelle systyer og sløydsaler til heldigitale moderne fabrikasjonsmetoder som 3d printing, laserkutting og digitale freser. </p>
 </section>
 
 <section class="image-section">
@@ -14,7 +14,7 @@
 
 <section class="main-section">
     <h1>ITS Makerspace</h1>
-    <p class="justify">ITS Makerspace holder til på UiO på Kjeller og har i skoleåret 2022/2023 tre tilbud: </p>
+    <p>ITS Makerspace holder til på UiO på Kjeller og har i skoleåret 2022/2023 tre tilbud: </p>
     <ul>
         <li>Junior Makerspace for barn fra 5-7 klassetrinn på onsdager fra kl. 16-18</li>
         <li>Ungdomsmakerspace for barn fra 8-10 klassetrinn på fredager fra kl. 16-18</li>
