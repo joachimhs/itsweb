@@ -2,7 +2,7 @@
     import {frontSections, fetchFrontSections} from "$lib/stores/FrontSectionsStore";
     import SvelteMarkdown from 'svelte-markdown'
 
-    import { afterUpdate, onMount } from 'svelte';
+    import { onMount } from 'svelte';
 
     onMount(async () => {
         await fetchFrontSections(true);

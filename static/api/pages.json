@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "id": "makerspace-jr",
+      "title": "Makerspace Junior",
+      "contentMarkdown": "makerspace-jr.md"
+    },
+    {
+      "id": "makerspace-ungdom",
+      "title": "Makerspace Ungdom",
+      "contentMarkdown": "makerspace-ungdom.md"
+    },
+    {
+      "id": "makerspace-vgs",
+      "title": "Makerspace VGS",
+      "contentMarkdown": "makerspace-vgs.md"
+    }
+  ]
+}
