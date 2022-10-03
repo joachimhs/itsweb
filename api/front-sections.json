@@ -1,9 +1,21 @@
 {
-  "front-sections": [
+  "frontSections": [
     {
       "id": "hva-er-makerspace",
+      "type": "main-section",
       "title": "Hva er Makerspace?",
-      "content": "<p>Makerspace kombinerer mekanikk, design og programmering i en kreativ aktivitet hvor fokuset ligger i å bruke egne evner til å produsere en kreativ gjenstand.\n\nEt skaperverksted kan være så mangt og omfatter alt fra tradisjonelle systyer og sløydsaler til heldigitale moderne fabrikasjonsmetoder som 3d printing, laserkutting og digitale freser.</p>"
+      "contentMarkdown": "hva-er-makerspace.md"
+    },
+    {
+      "id": "makerspace-image-separator",
+      "type": "image-separator",
+      "image": "/images/skaperverksted_bilde_2.jpg"
+    },
+    {
+      "id": "its-makerspace",
+      "type": "main-section",
+      "title": "ITS Markerspace",
+      "contentMarkdown": "its-makerspace-intro.md"
     }
   ]
 }
