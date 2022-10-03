@@ -1,0 +1,21 @@
+{
+  "frontSections": [
+    {
+      "id": "hva-er-makerspace",
+      "type": "main-section",
+      "title": "Hva er Makerspace?",
+      "contentMarkdown": "hva-er-makerspace.md"
+    },
+    {
+      "id": "makerspace-image-separator",
+      "type": "image-separator",
+      "image": "/images/skaperverksted_bilde_2.jpg"
+    },
+    {
+      "id": "its-makerspace",
+      "type": "main-section",
+      "title": "ITS Markerspace",
+      "contentMarkdown": "its-makerspace-intro.md"
+    }
+  ]
+}
