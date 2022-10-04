@@ -4,6 +4,14 @@ I år starter Institutt for teknologisystemer også opp gratis Junior Makerspace
 
 Fra oppstart onsdag 12. oktober starter vi med 10 deltakere. Under følger foreløpig plan for innholdet, men siste halvdel av programmet vil vi sammen med barna bli enige om når det nærmer seg. 
 
+# Utstyr
+Barna trenger ikke ta med eget utsyr til Makerspacet. Vi kommer til å benytte universitetes datamaskiner og har planlagt å kjøre makerspacet på RaspberryPi 4 maskiner. Harddisken til disse RaspberryPi maskinene er et SD kort, som barna tar vare på i sin elevkasse fra gang til gang, slik at andre grupper kan benytte RaspberryPi maskinene i mellomtiden. 
+
+Når vi skal kode løpelys og roboter skal vi bruke en liten mikrokontroller som heter RaspberryPi Pico W. 
+
+Verktøy som skrutrekkere, limpistoler, tape, skruer og muttere og så videre tas frem når det er behov for det. Etter at barna har lært å bruke 3D printerne og laserkutteren, kan de benytte disse. 
+
+# Tidsplan
 <table class="main-table">
 <thead>
 <tr>
