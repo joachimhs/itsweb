@@ -26,6 +26,33 @@ a:hover {
     content: "» ";
 }
 
+.main-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.main-table thead tr th {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
+    margin: 0;
+}
+
+.main-table tbody tr:first-child td {
+    padding-top: 10px;
+}
+
+.main-table tbody tr:nth-child(even) td {
+    background-color: #f3efef;
+}
+
+.main-table tbody tr td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
 @media only screen and (min-width: 391px) {
     body {
         font-family: sans-serif;
@@ -99,6 +126,12 @@ a:hover {
     .page-area h1 {
         text-align: center;
         font-weight: 100;
+    }
+
+    .page-area img {
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 
@@ -174,6 +207,12 @@ a:hover {
     .page-area h1 {
         text-align: center;
         font-weight: 100;
+    }
+
+    .page-area img {
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 

@@ -3,7 +3,8 @@
     import {fetchPages} from "$lib/stores/PagesStore";
     import { onMount } from 'svelte';
 
-    export const prerender = true;
+    export const csr = false;
+    export const prerender = true
 
     onMount(async () => {
         await fetchPages(true);
